@@ -1,0 +1,20 @@
+{
+  "name": "hello-js-action-alu0100969535",
+  "version": "1.0.0",
+  "description": "Reto de GitHub actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-1920/hello-js-action-alu0100969535.git"
+  },
+  "keywords": [],
+  "author": "Felipe Andrés Álvarez Avaria <alu0100969535@ull.edu.es> (https://github.com/alu0100969535)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-alu0100969535/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-alu0100969535#readme"
+}
